@@ -5,6 +5,8 @@
     text-decoration: none;
 }
 
+/* HEADER */
+
 .cabecalho {
     background-image: url(shutterstock_1147407953-1.jpg);
     background-size: cover;
@@ -59,4 +61,18 @@
     
     padding-bottom: 60px;
     color: white;
+}
+
+/* MAIN */
+
+.page-main {
+    border: 2px solid black;
+}
+
+.sep-main {
+    display: flex;
+}
+
+.titulo-main {
+    padding: 20px 0 0 15px;
 }
