@@ -138,3 +138,45 @@
     font-weight: 400;
     margin-top: 20px;
 }
+
+/* FOOTER */
+
+.fale {
+    display: flex;
+}
+
+.sep-fale {
+    width: 50%;
+}
+
+.imagem {
+    background-image: url(faleconosco.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 460px;
+}
+
+.fale-conosco {
+    font-family: 'Signika Negative', sans-serif;
+    width: 50%;
+    background-color:rgb(243, 226, 208) ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.fale-conosco h1 {
+    font-size: 50px;
+    color: rgb(245, 185, 117);
+}
+
+.fale-conosco h2 {
+    margin-top: 20px;
+    font-weight: 300;
+    font-size: 20px;
+}
+
+.footer-redes-sociais {
+    padding: 80px 0 0 0;
+}
