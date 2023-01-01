@@ -1,0 +1,62 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.cabecalho {
+    background-image: url(shutterstock_1147407953-1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.cabecalho-secao1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    padding: 50px 0 100px 0;
+}
+
+.font-titulo{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 31px;
+    color: white;
+}
+
+.font-titulo-child{
+    font-family: 'Signika Negative', sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    color: white;
+}
+
+.cabecalho-secao2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 100px;
+}
+
+.font-titulo2 {
+    font-family: 'Signika Negative', sans-serif;
+    font-size: 70px;
+    color: white;
+    padding-bottom: 30px;
+}
+
+.font-titulo2-child {
+    font-family: 'Signika Negative', sans-serif;
+    font-weight: 300;
+    font-size: 25px;
+    color: white;
+}
+
+.cabecalho-redes-sociais{
+    display: flex;
+    justify-content: center;
+    
+    padding-bottom: 60px;
+    color: white;
+}
