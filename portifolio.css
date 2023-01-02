@@ -8,7 +8,7 @@
 /* HEADER */
 
 .cabecalho {
-    background-image: url(empresa-de-pequeno-porte-1.png);
+    background-image: url(imagens/empresa-de-pequeno-porte-1.png);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -112,7 +112,7 @@
 }
 
 .main2 {
-    background-image: url(haha.png);
+    background-image: url(imagens/haha.png);
     background-size: cover;
     background-repeat: no-repeat;
     width: 50%;
@@ -154,7 +154,7 @@
 }
 
 .imagem {
-    background-image: url(faleconosco.jpg);
+    background-image: url(imagens/faleconosco.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 460px;
