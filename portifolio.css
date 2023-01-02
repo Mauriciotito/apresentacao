@@ -163,7 +163,7 @@
 .fale-conosco {
     font-family: 'Signika Negative', sans-serif;
     width: 50%;
-    background-color:rgb(243, 226, 208) ;
+    background-color:rgb(243, 226, 208);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -187,4 +187,76 @@
 
 .redes-sociais-footer {
     margin: 0 5px;
+}
+
+/* MODELOS DE LANDING */
+
+.landing {
+    font-family: 'Signika Negative', sans-serif;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items:flex-end;
+    justify-content: center;
+    gap: 20px;
+    padding-right: 20px;
+}
+
+.modelo2 {
+    border: 2px solid rgb(245, 185, 117);
+    background-color: rgb(243, 226, 208);
+    color: rgb(250, 159, 54);
+    font-size: 22px;
+    border-radius: 10px;
+    width: 55px;
+    height: 55px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modelo2:hover {
+    border: 2px solid white;
+    background-color: rgb(245, 185, 117);
+    color: white;
+}
+
+.modelo3 {
+    border: 2px solid rgb(245, 185, 117);
+    background-color: rgb(243, 226, 208);
+    color: rgb(250, 159, 54);
+    font-size: 22px;
+    border-radius: 10px;
+    width: 55px;
+    height: 55px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modelo3:hover {
+    border: 2px solid white;
+    background-color: rgb(245, 185, 117);
+    color: white;
+}
+
+.modelo4 {
+    border: 2px solid rgb(245, 185, 117);
+    background-color: rgb(243, 226, 208);
+    color: rgb(250, 159, 54);
+    font-size: 22px;
+    border-radius: 10px;
+    width: 55px;
+    height: 55px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modelo4:hover {
+    border: 2px solid white;
+    background-color: rgb(245, 185, 117);
+    color: white;
 }
